@@ -2,8 +2,8 @@
 Contributors: Andre Verona
 Donate link: 
 Tags: users, directory, api
-Requires at least: 4.0
-Tested up to: 4.8
+Requires at least: 4.8
+Tested up to: 5.4
 Stable tag: trunk
 Requires PHP: 7.0
 License: GPLv2 or later
